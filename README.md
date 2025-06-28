@@ -29,5 +29,16 @@ If the file is opened successfully, the entire content is read into a string usi
 
 After processing, the program attempts to open the output file to write the result. If it fails, an error is shown. Otherwise, the processed string is saved, and a success message is printed.
 
+
 Summary
 Overall, this program showcases a practical and simple example of text file compression and decompression using Run-Length Encoding in C++. It uses modern C++ features such as string manipulation, file streams, and iterators. Error handling is implemented for file access, and user input guides the program’s operation. While RLE is not suitable for all types of data due to its simplicity, it serves as an excellent educational example of how compression algorithms work and how they can be applied using fundamental programming constructs.
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ff789968-fa9d-4872-ab85-4ff86f2669ac)
+
+![Image](https://github.com/user-attachments/assets/81c637b0-1b6c-4cbd-ba57-b1d62f506eaf)
+
+![Image](https://github.com/user-attachments/assets/05a30db4-4a42-4c14-bf6b-020678ac4f21)
+
